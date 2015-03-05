@@ -47,6 +47,7 @@ TARGET = example
 # List C source files here. (C dependencies are automatically generated.)
 SRC =	$(TARGET).c \
 	usb_util.c \
+	ascii_to_hid.c \
 	print.c
 
 
